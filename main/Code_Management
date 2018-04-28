@@ -1,0 +1,26 @@
+
+/* Techniques Used to Manage the Code * / 
+
+1.Breaking the Large Program into DIfferent Files : 
+
+    i) Creating seperate File for each Module : For Example seperate file for Touch Interface , Bluetooth , Display 
+    ii) Creating seperate File for each Layer : Hardware Layer , Application Layer , Constants , Structures 
+
+
+2. Using Proper Naming Format 
+
+3. Use of Enums , Structure 
+
+4. Creating Document for Each Layer Working 
+
+5. Describing the constants details ( Pin , Clock Config , Baud Rate etc ) 
+
+6. Write the significance of each file at the top 
+
+7. Giving out the examples in each comment descrbing in a proper way 
+
+8. Extern Keyword is very much helpful for declaring the variables , 
+    Declare the variables inside the .h file using " extern"  keyword , & define / Initialize  them in the Source File 
+    This way the memory allocated to the variables is only once . 
+
+    

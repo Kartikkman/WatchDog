@@ -1,0 +1,1 @@
+char alert_categories[6][15] = {"SIMPLE_ALERT","EMAIL","NEWS","CALL","MISSED_CALL","SMS"};
