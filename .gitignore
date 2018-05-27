@@ -1,1 +1,5 @@
 build/*
+README.rst
+sdkconfig
+sdkconfig.old
+LICENSE
